@@ -1,12 +1,12 @@
 Mobile App Dev - App Brainstorming
 ===
 
-## Recipe Finder App (T)*** (R)***
+## Recipe Finder App
 The recipe finder app would suggest recipes after the user provides their available ingredients. Recipes would be fetched from a public API like *Spoonacular*. Could also allow the user to save their favorite recipes.
 
 Tools: Retrofit, RecyclerView, SQLite.
 
-## Trivia Game (T)***
+## Trivia Game
 We could use the Open Trivia Database.
 The app would fetch trivia questions and display them in a quiz format using RecyclerView. We would provide multiple-choice answers and show results at the end of the quiz.We could add difficulty levels or themes like science, history, etc.
 
@@ -19,10 +19,10 @@ A few APIs that generate quotes. These could possibly be used.
 - https://www.api-ninjas.com/api/quotes
 - https://github.com/lukePeavey/quotable
 
-## Pet Care Tracker (T)*** (R)***
+## Pet Care Tracker
 The pet care app would creat profiles for your pets to keep vital and dietary information, track vet appointments, upcoming vaccinations, weight tracking, etc
 
-## Weather App (R)***
+## Weather App
 This app would use the OpenWeatherMap API to retrieve weather data. It would display the weekly weather forecast in a RecyclerView. Show temperature, weather condition, and an icon for each day.
 Use a search bar to find weather data for a specific city.
 
