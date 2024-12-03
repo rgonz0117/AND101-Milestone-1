@@ -43,9 +43,6 @@ This app would use the Trefle API for plant data to display a list of plants wit
 2. Trivia Game
 3. Pet Care Tracker
 
-## Chosen Application by Group
-1. Recipe Finder
-
 ## New App Ideas - Evaluate and Categorize
 1. Recipe Finder
     - **Description:**
@@ -87,3 +84,6 @@ This app would be very beneficial to all pet owners. It gives them the ability t
 This app ideally would not be accessed too much in case of healthy pets except for when vaccines need to be renewed or checkups are scheduled. However this app could be used daily in the event the pet needs to be monitored for illness, weight tracking, and unusual behaviors.
     - **Scope:**
 This app would create a user profile for your pet to store a collection of personal information for that pet. The homepage would display quick information including time, date, and upcoming/past due events.
+
+## Chosen Application by Group
+1. Recipe Finder
