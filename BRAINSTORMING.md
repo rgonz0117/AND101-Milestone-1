@@ -14,10 +14,10 @@ The app would fetch trivia questions and display them in a quiz format using Rec
 This app would display motivational or themed quotes with author names. We could add a "favorites" feature to save liked quotes and include a search or filter option by topic or author.
 
 A few APIs that generate quotes. These could possibly be used. 
-https://thesimpsonsquoteapi.glitch.me/
-https://zenquotes.io/
-https://www.api-ninjas.com/api/quotes
-https://github.com/lukePeavey/quotable
+- https://thesimpsonsquoteapi.glitch.me/
+- https://zenquotes.io/
+- https://www.api-ninjas.com/api/quotes
+- https://github.com/lukePeavey/quotable
 
 ## Pet Care Tracker (T)*** (R)***
 The pet care app would creat profiles for your pets to keep vital and dietary information, track vet appointments, upcoming vaccinations, weight tracking, etc
