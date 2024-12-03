@@ -1,7 +1,7 @@
 Mobile App Dev - App Brainstorming
 ===
 
-## Recipe Finder App
+## Recipe Finder App (Chosen Application by Group)
 The recipe finder app would suggest recipes after the user provides their available ingredients. Recipes would be fetched from a public API like *Spoonacular*. Could also allow the user to save their favorite recipes.
 
 Tools: Retrofit, RecyclerView, SQLite.
