@@ -1,11 +1,11 @@
-# AND101 Milestone 1 - **Team/App Name**
+# AND101 Milestone 1 - **Team CTR**
 
 Submitted by:
 - Chantel Hoskins
 - Talia Ortiz
 - Roland Gonzales
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
@@ -17,8 +17,8 @@ If we had to describe this milestone in three (3) emojis, they would be: üçïüç
 
 The following REQUIRED features are completed:
 
-- [ ] Creation of GitHub Organization and Group Project Repo
-- [ ] Updated Course Portal group info with Group Name and App Description
+- [x] Creation of GitHub Organization and Group Project Repo
+- [x] Updated Course Portal group info with Group Name and App Description
 
 The following REQUIRED files are included:
 
